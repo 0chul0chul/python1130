@@ -22,3 +22,6 @@ p2.print()
 #동적 형식의 언어
 #디자인 타임
 Person.title = "new title"
+print(p1.title)
+print(p2.title)
+print(Person.title)
